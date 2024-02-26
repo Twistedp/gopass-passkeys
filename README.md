@@ -4,6 +4,7 @@
 
 # Overview
 
+
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/gopasspw/gopass/badge)](https://securityscorecards.dev/viewer/?uri=github.com/gopasspw/gopass)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/gopasspw/gopass/build.yml?branch=master)](https://github.com/gopasspw/gopass/actions/workflows/build.yml?query=branch%3Amaster)
 [![Packaging status](https://repology.org/badge/tiny-repos/gopass-gopasspw.svg)](https://repology.org/project/gopass-gopasspw/versions)
